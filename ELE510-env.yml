@@ -1,0 +1,49 @@
+name: ELE510
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - opencv
+  - numpy
+  - matplotlib
+  - xz
+  - pickleshare
+  - appnope
+  - certifi
+  - parso
+  - readline
+  - libsodium
+  - ptyprocess
+  - six
+  - debugpy
+  - openssl
+  - ca-certificates
+  - wheel
+  - jupyter_core
+  - pygments
+  - python-dateutil
+  - traitlets
+  - ipython
+  - decorator
+  - pexpect
+  - ncurses
+  - sqlite
+  - backcall
+  - matplotlib-inline
+  - wcwidth
+  - libffi
+  - jupyter_client
+  - zeromq
+  - zlib
+  - tk
+  - libcxx
+  - pyzmq
+  - tornado
+  - entrypoints
+  - nest-asyncio
+  - jedi
+  - setuptools
+  - pip
+  - prompt-toolkit
+  - ipykernel
+prefix: /Users/yohannesdawitkassaye/opt/anaconda3/envs/ELE510
